@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning java,python,git
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me tg@m1raclefxx
+- 📫 How to reach me nikak
 
 <!---
 M1racleFxx/M1racleFxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
